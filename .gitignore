@@ -1,0 +1,10 @@
+.vercel
+.claude
+.vscode
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local private assets — provide your own (see README)
+# about-you.mp3
